@@ -152,13 +152,6 @@ delta_table.toDF().printSchema()
 
 ---
 
-## Output
-
-
-
-
-
-
 
 ## Troubleshooting
 
